@@ -1,4 +1,4 @@
-<img align="center" src="img/palette.png">
+<h3 align="center"><img src="img/palette.png"></h3>
 
 # Night Shade
 ## Supported Apps
