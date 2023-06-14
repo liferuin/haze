@@ -6,6 +6,7 @@ Night Shade theme for various applications.
 ## Supported Apps
 - [Discord](https://github.com/liferuin/night-shade-discord)
 - [Firefox](https://github.com/liferuin/night-shade-firefox)
+- [Visual Studio Code](https://github.com/liferuin/night-shade-vscode)
 
 ## Palette
 <table>
